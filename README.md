@@ -32,8 +32,13 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 
 ## License
 
-This project is licensed under the MIT License.
-
 ---
 
 *Created by **Sarmad Gardezi***
+
+### Contributors
+- **Sarmad Gardezi** (Lead Developer)
+- **Claude** (AI Contributor)
+- **Antigravity** (AI Coding Assistant)
+- **Google Gemini** (AI Foundation Model)
+
