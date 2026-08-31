@@ -38,7 +38,10 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 
 ### Contributors
 - **Sarmad Gardezi** (Lead Developer)
-- **Claude** (AI Contributor)
 - **Antigravity** (AI Coding Assistant)
 - **Google Gemini** (AI Foundation Model)
+- **Google Cloud** (Cloud Infrastructure)
+- **Google AI Studio** (AI Prototyping Platform)
+- **Project Astra** (Real-Time AI Assistant)
+- **Vertex AI** (Enterprise AI Platform)
 
