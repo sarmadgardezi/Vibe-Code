@@ -44,4 +44,3 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 - **Google AI Studio** (AI Prototyping Platform)
 - **Project Astra** (Real-Time AI Assistant)
 - **Vertex AI** (Enterprise AI Platform)
-
